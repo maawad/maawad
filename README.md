@@ -44,4 +44,4 @@ As much as I love high-level programming languages, I also enjoy writing code at
 
 ### ⚡ Fun fact.
 
-Writing paper rebuttals is my favorite part about grad school.
+Writing papers rebuttals is my favorite part about grad school.

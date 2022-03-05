@@ -19,7 +19,7 @@ I'm Muhammad Awad (pronouns: he/him/his), a **Ph.D. candidate** in the Electrica
 
 - 📬 mawad at ucdavis dot edu
 - 🏠 [Website](https://maawad.github.io/)
-- 📄 [Resume](https://github.com/maawad/maawad.github.io/blob/master/resume/resume.pdf)
+- 📄 [Resume](https://maawad.github.io/resume/cv.pdf)
 - 🕴 [LinkedIn](https://www.linkedin.com/in/muhammad-awad-b1a28046)
 - 🥼 [Google Scholar](https://scholar.google.com/citations?user=9e0mCHIAAAAJ&hl=en)
 

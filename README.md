@@ -27,13 +27,13 @@ I'm Muhammad Awad (pronouns: he/him/his), a **Ph.D. candidate** in the Electrica
 ### 🔬 Research.
 
 My research focuses on building GPU data structures. Here are some data structures that I designed and built:
-- [Dynamic GPU B-Tree](https://github.com/owensgroup/GpuBTree)
-- [Multiversion GPU B-Tree](https://github.com/owensgroup/MVGpuBTree)
-- [Dynamic hash-based GPU graph data structure (integrated into Gunrock)](https://github.com/gunrock/gunrock/tree/dynamic-graph)
-- [GPU (on-device) epoch-based memory reclamation scheme to safely reclaim memory
+- [🌳 Dynamic GPU B-Tree](https://github.com/owensgroup/GpuBTree)
+- [⌛ Multiversion GPU B-Tree](https://github.com/owensgroup/MVGpuBTree)
+- [🕸 Dynamic hash-based GPU graph data structure (integrated into Gunrock)](https://github.com/gunrock/gunrock/tree/dynamic-graph)
+- [🧹 GPU (on-device) epoch-based memory reclamation scheme to safely reclaim memory
 for concurrent GPU data structures](https://github.com/owensgroup/MVGpuBTree)
-- [Static GPU hash tables that use probing schemes including cuckoo hashing, power-of-two choices, and iceberg hashing](https://github.com/owensgroup/BGHT)
-- [Bucketed Cuckoo hash set written in PTX and JIT-compiled.](https://github.com/maawad/PTX_BCHT)
+- [#️⃣ Static GPU hash tables that use probing schemes including cuckoo hashing, power-of-two choices, and iceberg hashing](https://github.com/owensgroup/BGHT)
+- [👨‍💻 Bucketed Cuckoo hash set written in PTX and JIT-compiled.](https://github.com/maawad/PTX_BCHT)
 ### 💻 Programming.
 
 FORTRAN 77 was the first programming language that I mastered back in 2010, and it is when I fell in love with programming! During my undergrad graduation and class projects, I used programming to automate different ship design steps. I write code to automate other daily life tasks as well!

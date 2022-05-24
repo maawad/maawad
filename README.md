@@ -15,7 +15,6 @@
 
 I'm Muhammad Awad (pronouns: he/him/his), a **Ph.D. candidate** in the Electrical and Computer Engineering Department at the University of California, Davis, advised by **Professor John Owens**. I received my bachelor's degree in Naval Architecture and Marine Engineering from the Faculty of Engineering, Alexandria University, Egypt, in 2013.
 
-**I'm graduating next June 2022, and I'm looking for full-time career opportunities.**
 
 - 📬 mawad at ucdavis dot edu
 - 🏠 [Website](https://maawad.github.io/)

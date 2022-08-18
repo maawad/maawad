@@ -13,7 +13,7 @@
 - ⚡ Fun fact: ...
 -->
 
-I'm Muhammad Awad (pronouns: he/him/his), a **Ph.D. candidate** in the Electrical and Computer Engineering Department at the University of California, Davis, advised by **Professor John Owens**. I received my bachelor's degree in Naval Architecture and Marine Engineering from the Faculty of Engineering, Alexandria University, Egypt, in 2013.
+I'm Muhammad Awad (pronouns: he/him/his). I recieved my M.S. and Ph.D. degrees from the Electrical and Computer Engineering Department at the University of California, Davis, and I was advised by **Professor John Owens**. Before that, I received my bachelor's degree in Naval Architecture and Marine Engineering from the Faculty of Engineering, Alexandria University, Egypt, in 2013.
 
 
 - 📬 mawad at ucdavis dot edu
@@ -33,14 +33,3 @@ My research focuses on building GPU data structures. Here are some data structur
 for concurrent GPU data structures](https://github.com/owensgroup/MVGpuBTree)
 - [#️⃣ Static GPU hash tables that use probing schemes including cuckoo hashing, power-of-two choices, and iceberg hashing](https://github.com/owensgroup/BGHT)
 - [👨‍💻 Bucketed Cuckoo hash set written in PTX and JIT-compiled.](https://github.com/maawad/PTX_BCHT)
-### 💻 Programming.
-
-FORTRAN 77 was the first programming language that I mastered back in 2010, and it is when I fell in love with programming! During my undergrad graduation and class projects, I used programming to automate different ship design steps. I write code to automate other daily life tasks as well!
-
-I love writing, debugging, and optimizing code. After I write some functions, my favorite next steps are stepping through the code line by line in debug sessions, inspecting assembly, and counting memory instructions! 
-
-As much as I love high-level programming languages, I also enjoy writing code at the lowest level possible. I wrote an entire [GPU hash table implementation in PTX](https://github.com/maawad/PTX_BCHT).
-
-### ⚡ Fun fact.
-
-Writing papers rebuttals is my favorite part about grad school.

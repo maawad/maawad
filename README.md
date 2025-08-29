@@ -1,35 +1,46 @@
-### Hi 👋
+### 👋 Hi there — I’m Muhammad Awad
 
-<!--
-**maawad/maawad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Senior Member of Technical Staff** at **AMD Research**, working at the intersection of **heterogeneous computing**, **AI for performance engineering**, and **scalable GPU libraries**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Before joining AMD, I completed my **Ph.D. in Electrical and Computer Engineering** at **UC Davis**, advised by [John Owens](https://www.ece.ucdavis.edu/~jowens/). My research there focused on building **dynamic concurrent data structures on GPUs**, such as B-trees, dynamic graphs, multiversioned trees, and high-performance hash tables.
 
-I'm Muhammad Awad (pronouns: he/him/his). I recieved my M.S. and Ph.D. degrees from the Electrical and Computer Engineering Department at the University of California, Davis, and I was advised by **Professor John Owens**. Before that, I received my bachelor's degree in Naval Architecture and Marine Engineering from the Faculty of Engineering, Alexandria University, Egypt, in 2013.
+---
 
+### 💼 Current Focus @ AMD
 
-- 📬 mawad at ucdavis dot edu
-- 🏠 [Website](https://maawad.github.io/)
-- 📄 [CV](https://maawad.github.io/resume/cv.pdf)
-- 🕴 [LinkedIn](https://www.linkedin.com/in/muhammad-awad-b1a28046)
-- 🥼 [Google Scholar](https://scholar.google.com/citations?user=9e0mCHIAAAAJ&hl=en)
+At AMD, I lead and contribute to projects spanning:
 
+- **AI-powered tools for GPU performance and productivity**
+- **Libraries and runtimes for heterogeneous and distributed systems**
+- **Programming models for AMD GPUs and Ryzen™ AI NPUs**
 
-### 🔬 Research.
+Notable projects:
 
-My research focuses on building GPU data structures. Here are some data structures that I designed and built:
-- [🌳 Dynamic GPU B-Tree](https://github.com/owensgroup/GpuBTree)
-- [⌛ Multiversion GPU B-Tree](https://github.com/owensgroup/MVGpuBTree)
-- [🕸 Dynamic hash-based GPU graph data structure (integrated into Gunrock)](https://github.com/gunrock/gunrock/tree/dynamic-graph)
-- [🧹 GPU (on-device) epoch-based memory reclamation scheme to safely reclaim memory
-for concurrent GPU data structures](https://github.com/owensgroup/MVGpuBTree)
-- [#️⃣ Static GPU hash tables that use probing schemes including cuckoo hashing, power-of-two choices, and iceberg hashing](https://github.com/owensgroup/BGHT)
-- [👨‍💻 Bucketed Cuckoo hash set written in PTX and JIT-compiled.](https://github.com/maawad/PTX_BCHT)
+- 🔁 [**Iris**](https://github.com/ROCm/iris): Triton-based multi-GPU programming framework with SHMEM-like RMA APIs — combining programmability and performance in just a few hundred lines of Python and Triton.
+- 🧠 [**IntelliPerf**](https://github.com/AMDResearch/intelliperf): LLM-powered GPU performance engineering pipeline that profiles, diagnoses, rewrites, and validates GPU kernels automatically.
+- ⚙️ [**IRON**](https://github.com/Xilinx/mlir-aie): Contributor to IRON, a low-level development stack for AMD Ryzen™ AI NPUs. IRON exposes Python APIs, MLIR compiler passes, and abstractions that enhance the programmability and expressivity of NPUs for developers.
+
+---
+
+### 🔬 Academic Research
+
+I’m broadly interested in **parallel computing**, **concurrent data structures**, **performance analysis**, and **low-level GPU programming**. As a Ph.D. student, I designed and built several GPU-native data structures:
+
+- 🌳 [**Dynamic GPU B-Tree**](https://github.com/owensgroup/GpuBTree)
+- ⌛ [**Multiversion GPU B-Tree**](https://github.com/owensgroup/MVGpuBTree)
+- 🕸 [**Dynamic graph data structure**](https://github.com/gunrock/gunrock/tree/dynamic-graph) (integrated into Gunrock)
+- 🧹 [**Epoch-based memory reclamation**](https://github.com/owensgroup/MVGpuBTree) for safe memory reuse on GPUs
+- #️⃣ [**Static GPU hash tables**](https://github.com/owensgroup/BGHT) — including cuckoo, Po2, and iceberg hashing
+- 👨‍💻 [**PTX-level bucketed cuckoo hash set**](https://github.com/maawad/PTX_BCHT) — written in PTX and JIT-compiled
+
+---
+
+### 📫 Connect
+
+- ✉️ **Email**: muhaawad at amd dot com  
+- 🌐 [**Website**](https://maawad.github.io/)  
+- 📄 [**CV**](https://maawad.github.io/resume/cv.pdf)  
+- 🧑‍💼 [**LinkedIn**](https://www.linkedin.com/in/maawad)  
+- 📚 [**Google Scholar**](https://scholar.google.com/citations?user=9e0mCHIAAAAJ&hl=en)  
+
+---

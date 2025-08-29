@@ -1,6 +1,6 @@
 ### 👋 Hi there — I’m Muhammad Awad
 
-I'm a **Senior Member of Technical Staff** at **AMD Research**, working at the intersection of **heterogeneous computing**, **AI for performance engineering**, and **scalable GPU libraries**.
+I'm a **Senior Member of Technical Staff** at **AMD Research**, working on various problems including **heterogeneous computing**, **AI for performance engineering**, and **libraries for distributed and heterogeneous systems**.
 
 Before joining AMD, I completed my **Ph.D. in Electrical and Computer Engineering** at **UC Davis**, advised by [John Owens](https://www.ece.ucdavis.edu/~jowens/). My research there focused on building **dynamic concurrent data structures on GPUs**, such as B-trees, dynamic graphs, multiversioned trees, and high-performance hash tables.
 

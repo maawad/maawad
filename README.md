@@ -1,6 +1,6 @@
 ### 👋 Hi there — I'm Muhammad Awad
 
-I'm a **Senior Member of Technical Staff** at **AMD Research**, where I **conceive, architect, and tech-lead** system-level software, libraries, and runtimes for next-generation computing. I lead cross-organizational teams and coordinate initiatives across ML frameworks, kernel engineering, distributed systems, and research teams.
+I'm a **Senior Member of Technical Staff** at **AMD Research**, where I **design, architect, and tech-lead** system-level software, libraries, and runtimes for next-generation computing. I lead cross-organizational teams and coordinate initiatives across ML frameworks, kernel engineering, distributed systems, and research teams.
 
 Before joining AMD, I completed my **Ph.D. in Electrical and Computer Engineering** at **UC Davis**, advised by [John Owens](https://www.ece.ucdavis.edu/~jowens/). My research there focused on building **dynamic concurrent data structures on GPUs**, such as B-trees, dynamic graphs, multiversioned trees, and high-performance hash tables.
 
@@ -16,9 +16,9 @@ At AMD, I lead and contribute to projects spanning:
 
 Notable projects:
 
-- 🔁 [**Iris**](https://github.com/ROCm/iris): Conceived, architected, and tech-led a Triton-based multi-GPU programming framework from scratch. Leading a cross-organizational team, demonstrated significant speedups in production LLM workloads.
-- 🧠 [**IntelliKit**](https://github.com/AMDResearch/intellikit): Conceived and architected an open-source LLM-ready profiling toolkit for AMD CPUs and GPUs. Serving as tooling lead for AMD's company-wide ML for performance engineering initiative.
-- 🧠 [**IntelliPerf**](https://github.com/AMDResearch/intelliperf): Conceived and led development of an LLM-powered autonomous GPU performance engineering framework that profiles, diagnoses, and optimizes kernels end-to-end.
+- 🔁 [**Iris**](https://github.com/ROCm/iris): Designed and architected a Triton-based multi-GPU programming framework from scratch. Tech-leading a cross-organizational team, demonstrated significant speedups in production LLM workloads.
+- 🧠 [**IntelliKit**](https://github.com/AMDResearch/intellikit): Created and architected an open-source LLM-ready profiling toolkit for AMD CPUs and GPUs. Serving as tooling lead for AMD's company-wide ML for performance engineering initiative.
+- 🧠 [**IntelliPerf**](https://github.com/AMDResearch/intelliperf): Created and led development of an LLM-powered autonomous GPU performance engineering framework that profiles, diagnoses, and optimizes kernels end-to-end.
 - ⚙️ [**IRON**](https://github.com/Xilinx/mlir-aie): Contributor to IRON, a low-level development stack for AMD Ryzen™ AI NPUs with Python APIs and MLIR compiler passes.
 
 ---

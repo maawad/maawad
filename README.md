@@ -1,6 +1,6 @@
 ### 👋 Hi there — I'm Muhammad Awad
 
-I'm a **Senior Member of Technical Staff** at **AMD Research**, where I **design, architect, and tech-lead** system-level software, libraries, and runtimes for next-generation computing. I lead cross-organizational teams and coordinate initiatives across ML frameworks, kernel engineering, distributed systems, and research teams.
+I'm a **Principal Member of Technical Staff** at **AMD Research**, where I **design, architect, and tech-lead** system-level software, libraries, and runtimes for next-generation computing. I lead cross-organizational teams and coordinate initiatives across ML frameworks, kernel engineering, distributed systems, and research teams.
 
 Before joining AMD, I completed my **Ph.D. in Electrical and Computer Engineering** at **UC Davis**, advised by [John Owens](https://www.ece.ucdavis.edu/~jowens/). My research there focused on building **dynamic concurrent data structures on GPUs**, such as B-trees, dynamic graphs, multiversioned trees, and high-performance hash tables.
 
